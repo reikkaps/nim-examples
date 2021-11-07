@@ -1,0 +1,5 @@
+de:Der Frühling wird überbewertet.
+en:Spring is over-rated.
+
+de:Am Anfang wurde das Universum erschaffen. Das machte viele Leute sehr wütend und wurde allenthalben als Schritt in die falsche Richtung angesehen.
+en:In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
